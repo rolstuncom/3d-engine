@@ -5,4 +5,4 @@ a/d y-/y+
 up arrow/down arrow z+/z-                                                                                                                                                 
 left arrow/right arrow     focal length -/+                                                                                                                               
 for building need sfml
-l
+
