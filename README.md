@@ -1,5 +1,5 @@
 # 3d-engine
-controls:
+controls:                                                                                                                                                                 
 w/s x+/x-                                                                                                                                                                 
 a/d y-/y+                                                                                                                                                                 
 up arrow/down arrow z+/z-                                                                                                                                                 
